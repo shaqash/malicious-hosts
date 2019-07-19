@@ -5,7 +5,7 @@ Keep your hosts file updated using Dan Pollock's hosts file.
 We'll be using it to block potentially malicious domains.
 #### Recognition
 Special thanks to Dan Pollock for keeping our hosts file updated and the internet safer to use.  
-Visit his web page at https://someonewhocares.org
+Visit his web page at https://someonewhocares.org.
 #### Warning
 This script modifies a system file, thus, requires Super User privileges.  
 Please read the contents of the script first, and more importantly the hosts file itself.
