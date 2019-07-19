@@ -17,7 +17,8 @@ Download and run using the following commands:
 git clone https://github.com/shaqash/updated-hosts.git
 cd updated-hosts
 cd Linux #YOUR OS
-./interactive.sh
+chmod +x interactive.sh
+sudo ./interactive.sh
 ```
 
 ## How to schedule (Using cron)
