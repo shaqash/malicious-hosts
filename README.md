@@ -1,4 +1,4 @@
-# updated-hosts
+# malicious-hosts
 Keep your hosts file updated using Dan Pollock's hosts file.  
 #### What is the HOSTS file?
 "hosts is an operating system file that maps host to IP addresses." more at [Wikipedia](https://en.wikipedia.org/wiki/Hosts_(file)).  
